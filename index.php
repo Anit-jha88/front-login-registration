@@ -1,4 +1,4 @@
-<?php
+<?php 
 /*
 Plugin Name: Front End Registration and Login
 Plugin URI: https://newwebdev.wordpress-developer.us/chp/
