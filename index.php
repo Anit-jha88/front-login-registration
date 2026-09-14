@@ -163,7 +163,7 @@ function pippin_registration_form_fields() {
 }
 
 // login form fields
-function pippin_login_form_fields() {
+function pippin_login_form_fields() { 
  
 	ob_start(); ?>
 		
