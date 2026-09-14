@@ -45,7 +45,7 @@ function pippin_login_form() {
 		// set this to true so the CSS is loaded
 		$pippin_load_css = true;
  
-		$output = pippin_login_form_fields();
+		$output = pippin_login_form_fields(); 
 	} else {
 		// could show some logged in user info here
 		// $output = 'user info here';
