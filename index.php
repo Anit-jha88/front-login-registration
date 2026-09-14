@@ -50,7 +50,7 @@ function pippin_login_form() {
 		// could show some logged in user info here
 		// $output = 'user info here';
 	}
-	return $output;
+	return $output; 
 }
 add_shortcode('login_form', 'pippin_login_form');
 
