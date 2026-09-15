@@ -36,7 +36,7 @@ add_shortcode('register_form', 'pippin_registration_form');
 
 
 // user login form
-function pippin_login_form() {
+function pippin_login_form() { 
  
 	if(!is_user_logged_in()) {
  
