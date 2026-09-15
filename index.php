@@ -11,7 +11,7 @@ Author URI: https://demo.com
 <?php
 // user registration login form
 function pippin_registration_form() {     
- 
+  
 	// only show the registration form to non-logged-in members  
 	if(!is_user_logged_in()) {
  
